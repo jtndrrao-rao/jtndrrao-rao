@@ -11,7 +11,7 @@
 
 ### 🧭 About Me
 
-I'm an **MIS & Sales Analytics professional** with **11+ years of experience** in the BFSI sector, currently working as **Assistant Manager – MIS & Sales Coordinator (TASC Channel)** at **AU Small Finance Bank**.
+I'm an **MIS & Sales Analytics professional** with **11+ years of experience** in the NBFC and BFSI sector, currently working as **Assistant Manager – MIS & Sales Coordinator (TASC Channel)** at **AU Small Finance Bank**.
 
 I specialize in turning raw operational data into **automated, decision-ready dashboards** — reducing manual reporting effort and giving business teams faster visibility into performance.
 
