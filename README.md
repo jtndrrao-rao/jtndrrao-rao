@@ -5,14 +5,30 @@
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="https://exceltutorial.org">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Founder+of+ExcelKeys+%E2%80%94+Excel+%26+Analytics+Education;MIS+%26+Dashboard+Automation+Specialist;11%2B+Years+Turning+Raw+Data+into+Decisions;Building+Interactive+Dashboards+%26+Smart+Reporting+Tools" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Custom+Excel+%26+HTML+Dashboards+for+Your+Business;Founder+of+ExcelKeys+%E2%80%94+Excel+%26+Analytics;MIS+Automation+%7C+Reporting+%7C+Dashboards;11%2B+Years+Turning+Raw+Data+into+Decisions" alt="Typing animation"/>
 </a>
 
 <br/>
 
+<a href="mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry"><img src="https://img.shields.io/badge/Email-Info%40exceltutorial.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jitendra-rao/"><img src="https://img.shields.io/badge/LinkedIn-Jitendra%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/excelkeys/"><img src="https://img.shields.io/badge/Instagram-@excelkeys-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@excelkeys"><img src="https://img.shields.io/badge/YouTube-@excelkeys-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://exceltutorial.org"><img src="https://img.shields.io/badge/Website-exceltutorial.org-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jitendra-rao/"><img src="https://img.shields.io/badge/LinkedIn-Jitendra%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
+
+---
+
+## 💼 Need a Custom Dashboard for Your Business?
+
+<div align="center">
+
+### **Stop building reports by hand. Get a dashboard that updates itself.**
+
+I design **custom Excel dashboards** and **interactive HTML dashboards** that turn your raw data into clear, decision-ready reports, built around *your* numbers, *your* KPIs and *your* team's workflow.
+
+**[📩 Email Me Your Requirement](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry)** &nbsp;·&nbsp; **[💼 Message on LinkedIn](https://www.linkedin.com/in/jitendra-rao/)** &nbsp;·&nbsp; **[📸 DM on Instagram](https://www.instagram.com/excelkeys/)**
 
 </div>
 
@@ -24,13 +40,13 @@
 <tr>
 <td width="68%" valign="top">
 
-**ExcelKeys** is my education and analytics brand, built to help professionals master **Excel, MIS reporting and data dashboards**, in a practical, job-ready way.
+**ExcelKeys** is my analytics and education brand, built to help professionals and businesses get more from **Excel, MIS reporting and data dashboards**.
 
-I'm the **founder and creator** behind everything on this brand:
+I'm the **founder** behind everything on the brand:
 
-- 🎥 **YouTube** — step-by-step Excel & analytics tutorials
+- 🛠️ **Custom Dashboards & Tools** — built for businesses, teams and individuals
+- 🎥 **YouTube** — step-by-step Excel and analytics tutorials
 - 📝 **Blogs** — in-depth guides on Excel, Power Query, dashboards and reporting
-- 🛠️ **Tools & Dashboards** — interactive, browser-based analytics tools I design and build myself
 
 With **11+ years of hands-on experience** in MIS, sales analytics and dashboard automation, my focus is simple: **make data easy to understand and reporting effortless.**
 
@@ -38,7 +54,7 @@ With **11+ years of hands-on experience** in MIS, sales analytics and dashboard 
 <td width="32%" align="center" valign="middle">
 
 ### 🎯 Mission
-*Turn complex data into clear decisions, and make every professional confident with Excel.*
+*Turn complex data into clear decisions, and save your team hours of manual reporting.*
 
 </td>
 </tr>
@@ -46,22 +62,48 @@ With **11+ years of hands-on experience** in MIS, sales analytics and dashboard 
 
 ---
 
-## 📊 What I Do
+## 🧰 Services I Offer
 
-| | Service / Expertise | What You Get |
+| | Service | What You Get |
 |---|---|---|
-| 📈 | **Interactive Dashboard Design** | Clean, decision-ready dashboards for sales, HR and business performance |
-| ⚙️ | **MIS & Reporting Automation** | Manual daily/weekly reports converted into automated, auto-refreshing workflows |
-| 🧮 | **Advanced Excel Solutions** | XLOOKUP, PivotTables, Power Query, LAMBDA & dynamic array formulas |
-| 🤖 | **VBA & Macro Automation** | One-click automation for repetitive spreadsheet work |
-| 👥 | **HR & Sales Analytics** | Hiring funnel, performance tracking and KPI insight tools |
-| 🎓 | **Excel & Analytics Training** | Tutorials and guides through ExcelKeys on YouTube and the blog |
+| 📈 | **Custom Excel Dashboards** | A clean, filterable dashboard with KPIs and charts, built on your own data |
+| 🌐 | **Interactive HTML Dashboards** | Browser-based dashboards you can open and share with your team, no software needed |
+| ⚙️ | **MIS & Reporting Automation** | Daily/weekly/monthly reports converted into one-click or auto-refreshing workflows |
+| 🤖 | **VBA & Macro Automation** | Repetitive spreadsheet work reduced to a single button |
+| 🧮 | **Advanced Excel Solutions** | XLOOKUP, PivotTables, Power Query, LAMBDA and dynamic array formulas, set up properly |
+| 👥 | **Sales, HR & Business Analytics** | Performance tracking, funnel analysis and KPI insight tools |
+| 🎓 | **Excel & Dashboard Training** | Practical, job-ready training for individuals and teams |
 
 ---
 
-## 🏆 Featured Dashboards & Tools
+## 🏢 Who I Help
 
-> 💻 *These are interactive live demos running on sample data — **best viewed on a laptop/desktop**.*
+| | |
+|---|---|
+| 🏪 **Small & growing businesses** | Track sales, revenue, targets and team performance in one place |
+| 📊 **Sales & operations teams** | Replace manual daily reports with a live, filterable view |
+| 👥 **HR & recruitment teams** | Hiring funnel, recruiter performance and workforce summaries |
+| 🏦 **Finance & MIS teams** | Collections, disbursement, ageing and management reporting |
+| 🎓 **Professionals & job seekers** | Excel skills and portfolio-ready dashboard projects |
+
+---
+
+## 🔄 How We Work Together
+
+| Step | What Happens |
+|---|---|
+| **1. Share Your Requirement** | Tell me what you track today, what reports you build, and what takes the most time |
+| **2. Scope & Plan** | I confirm the KPIs, data sources and the deliverable (Excel or HTML) before starting |
+| **3. Build & Review** | I build the dashboard, share it for your feedback, and refine it with you |
+| **4. Handover** | You get the final dashboard along with a simple guide on how to use and update it |
+
+> 🔒 **Your data stays yours.** I treat all business data as confidential, and my browser-based tools process data locally in your own browser.
+
+---
+
+## 🏆 My Work — Live Dashboard Examples
+
+> These are demo dashboards built on **sample data** to show what I can build for you. 💻 *Best viewed on a laptop/desktop.*
 
 <div align="center">
 
@@ -72,7 +114,7 @@ With **11+ years of hands-on experience** in MIS, sales analytics and dashboard 
 ### 📈 HR Analytics Dashboard
 Talent Acquisition workspace — hiring funnel KPIs, recruiter performance, dynamic filters and a custom chart builder.
 
-[**🔗 View Repository →**](https://github.com/jtndrrao-rao/hr-analytics-dashboard)
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/hr-analytics-dashboard)
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +122,7 @@ Talent Acquisition workspace — hiring funnel KPIs, recruiter performance, dyna
 ### 🧠 HR Insight Analyzer
 Upload HR data and get an instant plain-English brief of trends, outliers and key numbers — fully private, runs in your browser.
 
-[**🔗 View Repository →**](https://github.com/jtndrrao-rao/hr-insight-analyzer)
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/hr-insight-analyzer)
 
 </td>
 </tr>
@@ -90,7 +132,7 @@ Upload HR data and get an instant plain-English brief of trends, outliers and ke
 ### 💼 Business Performance Dashboard
 Track revenue, growth and targets with auto-generated KPIs, custom charts and a presentation mode for leadership reviews.
 
-[**🔗 View Repository →**](https://github.com/jtndrrao-rao/business-performance-dashboard)
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/business-performance-dashboard)
 
 </td>
 <td width="50%" valign="top">
@@ -98,11 +140,13 @@ Track revenue, growth and targets with auto-generated KPIs, custom charts and a 
 ### 🔍 Insight Analyzer
 A general-purpose auto-analyst — drop in any spreadsheet and get a guided statistical summary in seconds.
 
-[**🔗 View Repository →**](https://github.com/jtndrrao-rao/insight-analyzer)
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/insight-analyzer)
 
 </td>
 </tr>
 </table>
+
+**Want something like this for your own business? [Email me](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry) your requirement.**
 
 </div>
 
@@ -128,36 +172,62 @@ A general-purpose auto-analyst — drop in any spreadsheet and get a guided stat
 
 ---
 
+## ❓ Frequently Asked Questions
+
+<details>
+<summary><b>What do I need to share to get started?</b></summary>
+<br/>
+Just a short description of what you want to track and, if possible, a sample of your data (with sensitive details removed). I'll tell you what can be built and how.
+</details>
+
+<details>
+<summary><b>Will it be an Excel file or a web dashboard?</b></summary>
+<br/>
+Either. Excel dashboards are ideal for teams that already work in Excel. HTML dashboards are ideal when you want something that opens in any browser and is easy to share.
+</details>
+
+<details>
+<summary><b>Can the dashboard update automatically?</b></summary>
+<br/>
+In most cases, yes. Depending on your data setup, I can build it so that pasting or refreshing new data updates every chart and KPI.
+</details>
+
+<details>
+<summary><b>How is pricing decided?</b></summary>
+<br/>
+Pricing depends on the scope: number of KPIs, data sources and complexity. Share your requirement and I'll send a clear quote before any work begins.
+</details>
+
+<details>
+<summary><b>Is my business data safe?</b></summary>
+<br/>
+Yes. I treat every requirement and dataset as confidential, and I never share client data.
+</details>
+
+---
+
 ## 🌐 The ExcelKeys Ecosystem
 
 | Platform | Link |
 |---|---|
 | 🎥 YouTube Channel | [youtube.com/@excelkeys](https://www.youtube.com/@excelkeys) |
+| 📸 Instagram | [instagram.com/excelkeys](https://www.instagram.com/excelkeys/) |
 | 📝 Main Website & Blog | [exceltutorial.org](https://exceltutorial.org) |
 | 📚 Excel Guides | [excelproguide.com](https://excelproguide.com) |
 | 💼 LinkedIn | [linkedin.com/in/jitendra-rao](https://www.linkedin.com/in/jitendra-rao/) |
-| 🕉️ Devotional Content (other venture) | [shitaram.in](https://shitaram.in) |
-
 ---
 
-## 📈 GitHub Activity
+## 🤝 Let's Build Your Dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jtndrrao-rao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtndrrao-rao&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+### Have a report that takes hours every week? Let's turn it into a dashboard.
 
-</div>
-
----
-
-## 🤝 Let's Work Together
-
-I'm open to **collaborations, custom dashboard projects, and training/consulting** through ExcelKeys.
-
-<div align="center">
-
-**📩 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/jitendra-rao/)**
+| | Contact |
+|---|---|
+| 📩 **Email** | [Info@exceltutorial.org](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry) |
+| 💼 **LinkedIn** | [linkedin.com/in/jitendra-rao](https://www.linkedin.com/in/jitendra-rao/) |
+| 📸 **Instagram** | [@excelkeys](https://www.instagram.com/excelkeys/) |
 
 <br/>
 
