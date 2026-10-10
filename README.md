@@ -106,16 +106,6 @@ A general-purpose auto-analyst — drop in any spreadsheet and get a guided stat
 
 </div>
 
-<div align="center">
-
-[![HR Analytics Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=jtndrrao-rao&repo=hr-analytics-dashboard&theme=tokyonight&hide_border=true)](https://github.com/jtndrrao-rao/hr-analytics-dashboard)
-[![HR Insight Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=jtndrrao-rao&repo=hr-insight-analyzer&theme=tokyonight&hide_border=true)](https://github.com/jtndrrao-rao/hr-insight-analyzer)
-
-[![Business Performance Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=jtndrrao-rao&repo=business-performance-dashboard&theme=tokyonight&hide_border=true)](https://github.com/jtndrrao-rao/business-performance-dashboard)
-[![Insight Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=jtndrrao-rao&repo=insight-analyzer&theme=tokyonight&hide_border=true)](https://github.com/jtndrrao-rao/insight-analyzer)
-
-</div>
-
 ---
 
 ## 🛠️ Expertise & Toolkit
