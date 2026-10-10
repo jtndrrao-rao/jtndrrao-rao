@@ -58,6 +58,7 @@ Alongside my corporate role, I run **Excelkeys**, an Excel education brand where
 
 - LinkedIn: [in/jitendra-rao](https://www.linkedin.com/in/jitendra-rao/)
 - YouTube: [@excelkeys](https://www.youtube.com/@excelkeys)
+- Instagram: [@excelkeys](https://www.instagram.com/excelkeys)
 - Blog: [exceltutorial.org](https://exceltutorial.org)
 
 <p align="center"><i>Based in Maharashtra, India 🇮🇳</i></p>
