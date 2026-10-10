@@ -112,17 +112,17 @@ With **11+ years of hands-on experience** in MIS, sales analytics and dashboard 
 <td width="50%" valign="top">
 
 ### 📈 HR Analytics Dashboard
-Talent Acquisition workspace — hiring funnel KPIs, recruiter performance, dynamic filters and a custom chart builder.
+Talent Acquisition command center: funnel KPIs, click-to-filter charts and a custom chart builder.
 
-[**🔗 View Project →**](https://github.com/jtndrrao-rao/hr-analytics-dashboard)
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/hr-analytics-dashboard) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/hr-analytics-dashboard)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 HR Insight Analyzer
-Upload HR data and get an instant plain-English brief of trends, outliers and key numbers — fully private, runs in your browser.
+Upload HR data and get a ranked, benchmark-aware brief in plain English. No AI, fully offline.
 
-[**🔗 View Project →**](https://github.com/jtndrrao-rao/hr-insight-analyzer)
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/hr-insight-analyzer) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/hr-insight-analyzer)
 
 </td>
 </tr>
@@ -130,21 +130,54 @@ Upload HR data and get an instant plain-English brief of trends, outliers and ke
 <td width="50%" valign="top">
 
 ### 💼 Business Performance Dashboard
-Track revenue, growth and targets with auto-generated KPIs, custom charts and a presentation mode for leadership reviews.
+Revenue, profit and target tracking with auto KPIs, flexible charts and a presentation mode.
 
-[**🔗 View Project →**](https://github.com/jtndrrao-rao/business-performance-dashboard)
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/business-performance-dashboard) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/business-performance-dashboard)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 Insight Analyzer
-A general-purpose auto-analyst — drop in any spreadsheet and get a guided statistical summary in seconds.
+Drop in any spreadsheet and get correlations, skew and outliers explained in plain language.
 
-[**🔗 View Project →**](https://github.com/jtndrrao-rao/insight-analyzer)
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/insight-analyzer) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/insight-analyzer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 RM Productivity Dashboard
+Upload Excel, get KPIs, 7 charts, pivot and an RM leaderboard with MTD/YTD views. No formula, no macro.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/rm-productivity-dashboard) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/rm-productivity-dashboard) · [**🎬 Watch Video →**](https://youtu.be/7Lb5GpAHpok)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 NEXUS Office Suite
+72 offline tools in one file: PDF Studio, a 50,000-row Data Workbench, image tools, converters and more.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/nexus-office-suite) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/nexus-office-suite)
 
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td align="center">
+
+### ✨ Your Dashboard Here
+Have a report that takes hours every month? I will build a custom dashboard around your data, your KPIs and your team.
+
+[**📩 Get a Quote →**](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry) · [**📸 Instagram →**](https://www.instagram.com/excelkeys/) · [**💼 LinkedIn →**](https://www.linkedin.com/in/jitendra-rao/)
+
+</td>
+</tr>
+</table>
+
+**🌐 [Browse all live demos →](https://demo-projects-dashboard-tools.netlify.app/)**
 
 **Want something like this for your own business? [Email me](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry) your requirement.**
 
@@ -215,6 +248,8 @@ Yes. I treat every requirement and dataset as confidential, and I never share cl
 | 📝 Main Website & Blog | [exceltutorial.org](https://exceltutorial.org) |
 | 📚 Excel Guides | [excelproguide.com](https://excelproguide.com) |
 | 💼 LinkedIn | [linkedin.com/in/jitendra-rao](https://www.linkedin.com/in/jitendra-rao/) |
+| 🕉️ Devotional Content (other venture) | [shitaram.in](https://shitaram.in) |
+
 ---
 
 ## 🤝 Let's Build Your Dashboard
