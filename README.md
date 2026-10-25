@@ -4,17 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=230&section=header&text=Jitendra%20Rao&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%7C%20ExcelKeys&descSize=24&descAlignY=58" width="100%" alt="Jitendra Rao - Founder, ExcelKeys"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
-<a href="https://exceltutorial.org">
+<a href="https://excelkeys.in">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Custom+Excel+%26+HTML+Dashboards+for+Your+Business;Founder+of+ExcelKeys+%E2%80%94+Excel+%26+Analytics;MIS+Automation+%7C+Reporting+%7C+Dashboards;11%2B+Years+Turning+Raw+Data+into+Decisions" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<a href="mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry"><img src="https://img.shields.io/badge/Email-Info%40exceltutorial.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:info@excelkeys.in?subject=Custom%20Dashboard%20Enquiry"><img src="https://img.shields.io/badge/Email-info%40excelkeys.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jitendra-rao/"><img src="https://img.shields.io/badge/LinkedIn-Jitendra%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/excelkeys/"><img src="https://img.shields.io/badge/Instagram-@excelkeys-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@excelkeys"><img src="https://img.shields.io/badge/YouTube-@excelkeys-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://exceltutorial.org"><img src="https://img.shields.io/badge/Website-exceltutorial.org-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://excelkeys.in"><img src="https://img.shields.io/badge/Website-excelkeys.in-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 I design **custom Excel dashboards** and **interactive HTML dashboards** that turn your raw data into clear, decision-ready reports, built around *your* numbers, *your* KPIs and *your* team's workflow.
 
-**[📩 Email Me Your Requirement](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry)** &nbsp;·&nbsp; **[💼 Message on LinkedIn](https://www.linkedin.com/in/jitendra-rao/)** &nbsp;·&nbsp; **[📸 DM on Instagram](https://www.instagram.com/excelkeys/)**
+**[📩 Email Me Your Requirement](mailto:info@excelkeys.in?subject=Custom%20Dashboard%20Enquiry)** &nbsp;·&nbsp; **[💼 Message on LinkedIn](https://www.linkedin.com/in/jitendra-rao/)** &nbsp;·&nbsp; **[📸 DM on Instagram](https://www.instagram.com/excelkeys/)**
 
 </div>
 
@@ -162,6 +162,78 @@ Upload Excel, get KPIs, 7 charts, pivot and an RM leaderboard with MTD/YTD views
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📞 Collections Desk
+Receivables ageing, a ranked call list, a collection health score and a 30-day cash forecast.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/collections-desk) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/collections-desk)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Pipeline Radar
+Quarter forecast, funnel leak finder and a what-if planner for sales leaders.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/pipeline-radar) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/pipeline-radar)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 Cash Flow & Runway Dashboard
+How many months of cash are left, with a 12-month forecast and a what-if lab.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/cashflow-runway-dashboard) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/cashflow-runway-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Insurance MIS Dashboard
+Upload an MIS workbook and get pivot cuts, penetration, premium and TAT insights. Fully offline.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/insurance-mis-dashboard) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/insurance-mis-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📒 Ledgerline CRM
+Deal board, receivables ageing, role-based access and an activity log in one workspace.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/ledgerline-crm) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/ledgerline-crm)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 StockPulse Inventory Dashboard
+ABC analysis, stock health, reorder alerts and cash locked, with click-to-filter charts.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/inventory-stock-health-dashboard) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/inventory-stock-health-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Stock Radar
+What to buy, what to clear and what to stop buying, with the reasoning behind every row.
+
+[**🔗 View Project →**](https://github.com/jtndrrao-rao/stock-radar) · [**▶ Live Demo →**](https://demo-projects-dashboard-tools.netlify.app/stock-radar)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 More Dashboards
+Browse the full portfolio of live demos, all running on fictional sample data.
+
+[**▶ Browse all live demos →**](https://demo-projects-dashboard-tools.netlify.app/)
+
+</td>
+</tr>
 </table>
 
 <table>
@@ -171,7 +243,7 @@ Upload Excel, get KPIs, 7 charts, pivot and an RM leaderboard with MTD/YTD views
 ### ✨ Your Dashboard Here
 Have a report that takes hours every month? I will build a custom dashboard around your data, your KPIs and your team.
 
-[**📩 Get a Quote →**](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry) · [**📸 Instagram →**](https://www.instagram.com/excelkeys/) · [**💼 LinkedIn →**](https://www.linkedin.com/in/jitendra-rao/)
+[**📩 Get a Quote →**](mailto:info@excelkeys.in?subject=Custom%20Dashboard%20Enquiry) · [**📸 Instagram →**](https://www.instagram.com/excelkeys/) · [**💼 LinkedIn →**](https://www.linkedin.com/in/jitendra-rao/)
 
 </td>
 </tr>
@@ -179,7 +251,7 @@ Have a report that takes hours every month? I will build a custom dashboard arou
 
 **🌐 [Browse all live demos →](https://demo-projects-dashboard-tools.netlify.app/)**
 
-**Want something like this for your own business? [Email me](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry) your requirement.**
+**Want something like this for your own business? [Email me](mailto:info@excelkeys.in?subject=Custom%20Dashboard%20Enquiry) your requirement.**
 
 </div>
 
@@ -245,7 +317,8 @@ Yes. I treat every requirement and dataset as confidential, and I never share cl
 |---|---|
 | 🎥 YouTube Channel | [youtube.com/@excelkeys](https://www.youtube.com/@excelkeys) |
 | 📸 Instagram | [instagram.com/excelkeys](https://www.instagram.com/excelkeys/) |
-| 📝 Main Website & Blog | [exceltutorial.org](https://exceltutorial.org) |
+| 📝 Main Website & Blog | [excelkeys.in](https://excelkeys.in) |
+| 🎓 Excel Tutorials | [exceltutorial.org](https://exceltutorial.org) |
 | 📚 Excel Guides | [excelproguide.com](https://excelproguide.com) |
 | 💼 LinkedIn | [linkedin.com/in/jitendra-rao](https://www.linkedin.com/in/jitendra-rao/) |
 | 🕉️ Devotional Content (other venture) | [shitaram.in](https://shitaram.in) |
@@ -260,7 +333,7 @@ Yes. I treat every requirement and dataset as confidential, and I never share cl
 
 | | Contact |
 |---|---|
-| 📩 **Email** | [Info@exceltutorial.org](mailto:Info@exceltutorial.org?subject=Custom%20Dashboard%20Enquiry) |
+| 📩 **Email** | [info@excelkeys.in](mailto:info@excelkeys.in?subject=Custom%20Dashboard%20Enquiry) |
 | 💼 **LinkedIn** | [linkedin.com/in/jitendra-rao](https://www.linkedin.com/in/jitendra-rao/) |
 | 📸 **Instagram** | [@excelkeys](https://www.instagram.com/excelkeys/) |
 
